@@ -6,7 +6,7 @@
 
 ## You can try out the other courses in the *Catalog* 
 
-# List of all the launched courses with their links
+### List of all the launched courses with their links
 
 ## Guided Projects
 
