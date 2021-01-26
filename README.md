@@ -4,5 +4,38 @@
 # Resource 
 - [GP resource](https://github.com/MehaRima/gp-responsive-webpage-design/releases/tag/Basic_template)
 
-## Other guided projects
-- [Vectr Part I](https://www.coursera.org/projects/creating-custom-vector-graphic-design-using-vectr-part1?utm_source=mobile&utm_medium=page_share&utm_content=pdp&utm_campaign=banner_button)
+## You can try out the other courses in the *Catalog* 
+
+# List of all the launched courses with their links
+
+## Guided Projects
+
+```
+Create Improved Graphic Design Using VECTR-Part II
+```
+
+- https://bit.ly/369XAId
+
+```
+Creating Custom Vector Graphic Design Using VECTR : Part I
+```
+
+- https://bit.ly/3c794zV
+
+```
+Creating designs using Canva
+```
+
+- https://bit.ly/3qTfh6L
+
+## Courses
+
+```
+Creating Custom Vector Graphic Design Using VECTR
+```
+
+- https://bit.ly/3inGnjl
+
+### Thank You.
+
+_Saheli Basu_
