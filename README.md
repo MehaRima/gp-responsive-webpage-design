@@ -28,6 +28,13 @@ Creating designs using Canva
 
 - https://bit.ly/3qTfh6L
 
+```
+Web page creation by editing a template in GitHub
+
+```
+
+- https://bit.ly/2Mc5oST
+
 ## Courses
 
 ```
