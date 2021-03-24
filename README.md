@@ -14,34 +14,30 @@
 Create Improved Graphic Design Using VECTR-Part II
 ```
 
-- https://bit.ly/369XAId
+-
 
 ```
 Creating Custom Vector Graphic Design Using VECTR : Part I
 ```
 
-- https://bit.ly/3c794zV
+- 
 
 ```
 Creating designs using Canva
 ```
 
-- https://bit.ly/3qTfh6L
+- 
 
 ```
 Web page creation by editing a template in GitHub
 
 ```
 
-- https://bit.ly/2Mc5oST
+- 
 
 ## Courses
 
-```
-Creating Custom Vector Graphic Design Using VECTR
-```
 
-- https://bit.ly/3inGnjl
 
 ### Thank You.
 
